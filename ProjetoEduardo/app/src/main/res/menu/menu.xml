@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ListaNoticias">
+    <item
+        android:id="@+id/perfilnav"
+        android:orderInCategory="100"
+        android:title="Perfil"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/lista_chat"
+        android:orderInCategory="100"
+        android:title="Chat"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Lista_contatos"
+        android:orderInCategory="100"
+        android:title="Contatos"
+        app:showAsAction="never" />
+
+
+</menu>

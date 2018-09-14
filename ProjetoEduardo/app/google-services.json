@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478452531033",
+    "firebase_url": "https://iesb-aluno-online.firebaseio.com",
+    "project_id": "iesb-aluno-online",
+    "storage_bucket": "iesb-aluno-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478452531033:android:94d4fdbae5a6cfc4",
+        "android_client_info": {
+          "package_name": "com.example.eduardomenezes.projetoeduardo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478452531033-c5ftjubug1lo50a19fu8mgdg3h0p0353.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduardomenezes.projetoeduardo",
+            "certificate_hash": "2cc495e17cdf0155f4f48585a2012d07e4218af8"
+          }
+        },
+        {
+          "client_id": "478452531033-lcb22v9g2glv6klfcsn8l9j6moq1sguk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ5x9ppuim96xPJNyb7aWtSI8L_y7Hn1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478452531033-lcb22v9g2glv6klfcsn8l9j6moq1sguk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
